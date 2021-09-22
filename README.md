@@ -4,4 +4,4 @@ A simple implementation of Adaptive Linear Element (AdeLinE), an early single-la
 
 ## License
 
-This repository is distrbuted under `Apache-2.0`. For more information see [LICENSE](LICENSE).
+This repository is distrbuted under `LGPL-3.0-or-later`. For more information see [LICENSE](LICENSE).
